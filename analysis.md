@@ -4,7 +4,7 @@
 
 - Applied for a LinkedIn job by sending a resume via email.  
 - Received a reply instructing submission of personal details via:  
-  1. Website: `hxxp://navafiz[.]com`  
+  1. Website: `hxxp://Phishing Actor[.]com`  
   2. WhatsApp contact  
 
 **Observation:** Classic **recruitment phishing tactic**.
@@ -41,8 +41,8 @@
 
 ### URLScan.io Summary
 
-- **Domain:** navafiz.com  
-- **IP Contacted:** 192.250.235.158 (Singapore)  
+- **Domain:** Phishing Actor.com  
+- **IP Contacted:** 192.xxx.xxx.xxx (Location masked) 
 - **Hosting Provider:** WHG-SGP WHG Hosting Services Ltd  
 - **HTTP Transactions Observed:** 3  
 - **TLS Certificate:** R12, issued Oct 6, 2025, valid 3 months  
@@ -74,3 +74,4 @@
 - Avoid sharing personal details over WhatsApp with unknown recruiters.  
 - Validate company domains via LinkedIn or WHOIS lookup.  
 - Always check suspicious URLs using OSINT and cybersecurity tools.
+
