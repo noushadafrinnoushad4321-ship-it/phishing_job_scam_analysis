@@ -29,7 +29,7 @@ The attacker contacted the applicant via email and requested personal details th
 ## 📌 Safety Notice
 
 - **No personal email data** is included.  
-- Malicious URLs are modified (`hxxp://navafiz[.]com`) to prevent accidental clicks.  
+- Malicious URLs are modified (`hxxp://Phishing Actor[.]com`) to prevent accidental clicks.  
 - Screenshots are omitted for privacy.  
 
 ---
@@ -38,3 +38,4 @@ The attacker contacted the applicant via email and requested personal details th
 
 This project demonstrates a professional approach to investigating phishing campaigns using OSINT and cybersecurity tools.  
 It highlights the **importance of safe online practices** when applying for jobs online.
+
